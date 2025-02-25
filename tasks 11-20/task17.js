@@ -20,4 +20,4 @@ function hasCharsInOrder(string, name) {
     return true;
 }
 
-console.log(hasCharsInOrder('По ту сторону рек', 'тону'));
+console.log(hasCharsInOrder('По ту сторону рек', 'тону')); // check
